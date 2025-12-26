@@ -1,0 +1,147 @@
+[2025-12-26 14:22:38] Pipeline daemon started (PID: 54882, Interval: 120s)
+[2025-12-26 14:22:38] Logs: /Users/thirdeyeradianceprivateltd/Desktop/PRODUCTION/data_generation copy/pipeline_execution.log
+
+[2025-12-26 14:22:38] ========== Pipeline execution started ==========
+[2025-12-26 14:22:38] [1/5] Running exotel_api.py...
+[2025-12-26 14:22:40] [1/5] ✓ exotel_api.py completed successfully
+[2025-12-26 14:22:40] [2/5] Running import_exotel_data.py...
+[2025-12-26 14:22:49] [2/5] ✓ import_exotel_data.py completed successfully
+[2025-12-26 14:22:49] [3/5] Running get_recording.py...
+[2025-12-26 14:22:51] [3/5] ✓ get_recording.py completed successfully
+[2025-12-26 14:22:51] [4/5] Running audio_to_text.py...
+[2025-12-26 14:22:52] [4/5] ✓ audio_to_text.py completed successfully
+[2025-12-26 14:22:52] [5/5] Running descrption_generation_2.py...
+[2025-12-26 14:22:53] [5/5] ✓ descrption_generation_2.py completed successfully
+[2025-12-26 14:22:53] ========== Pipeline execution completed ==========
+
+[2025-12-26 14:24:53] ========== Pipeline execution started ==========
+[2025-12-26 14:24:53] [1/5] Running exotel_api.py...
+[2025-12-26 14:24:54] [1/5] ✓ exotel_api.py completed successfully
+[2025-12-26 14:24:54] [2/5] Running import_exotel_data.py...
+[2025-12-26 14:25:04] [2/5] ✓ import_exotel_data.py completed successfully
+[2025-12-26 14:25:04] [3/5] Running get_recording.py...
+[2025-12-26 14:25:05] [3/5] ✓ get_recording.py completed successfully
+[2025-12-26 14:25:05] [4/5] Running audio_to_text.py...
+[2025-12-26 14:25:07] [4/5] ✓ audio_to_text.py completed successfully
+[2025-12-26 14:25:07] [5/5] Running descrption_generation_2.py...
+[2025-12-26 14:25:07] [5/5] ✓ descrption_generation_2.py completed successfully
+[2025-12-26 14:25:07] ========== Pipeline execution completed ==========
+
+[2025-12-26 14:27:07] ========== Pipeline execution started ==========
+[2025-12-26 14:27:07] [1/5] Running exotel_api.py...
+[2025-12-26 14:27:09] [1/5] ✓ exotel_api.py completed successfully
+[2025-12-26 14:27:09] [2/5] Running import_exotel_data.py...
+[2025-12-26 14:27:18] [2/5] ✓ import_exotel_data.py completed successfully
+[2025-12-26 14:27:18] [3/5] Running get_recording.py...
+[2025-12-26 14:27:20] [3/5] ✓ get_recording.py completed successfully
+[2025-12-26 14:27:20] [4/5] Running audio_to_text.py...
+[2025-12-26 14:27:21] [4/5] ✓ audio_to_text.py completed successfully
+[2025-12-26 14:27:21] [5/5] Running descrption_generation_2.py...
+[2025-12-26 14:27:22] [5/5] ✓ descrption_generation_2.py completed successfully
+[2025-12-26 14:27:22] ========== Pipeline execution completed ==========
+
+[2025-12-26 14:29:26] ========== Pipeline execution started ==========
+[2025-12-26 14:29:26] [1/5] Running exotel_api.py...
+[2025-12-26 14:29:27] [1/5] ✓ exotel_api.py completed successfully
+[2025-12-26 14:29:27] [2/5] Running import_exotel_data.py...
+[2025-12-26 14:29:38] [2/5] ✓ import_exotel_data.py completed successfully
+[2025-12-26 14:29:38] [3/5] Running get_recording.py...
+[2025-12-26 14:29:38] [3/5] ✗ get_recording.py failed with exit code 1
+[2025-12-26 14:29:38]   Error: Fatal Python error: init_sys_streams: can't initialize sys standard streams
+Python runtime state: core initialized
+OSError: [Errno 9] Bad file descriptor
+
+Current thread 0x00000001fbba5f00 (most recen
+[2025-12-26 14:29:38] [4/5] Running audio_to_text.py...
+[2025-12-26 14:29:38] [4/5] ✗ audio_to_text.py failed with exit code 1
+[2025-12-26 14:29:38]   Error: Fatal Python error: init_sys_streams: can't initialize sys standard streams
+Python runtime state: core initialized
+OSError: [Errno 9] Bad file descriptor
+
+Current thread 0x00000001fbba5f00 (most recen
+[2025-12-26 14:29:38] [5/5] Running descrption_generation_2.py...
+[2025-12-26 14:29:38] [5/5] ✗ descrption_generation_2.py failed with exit code 1
+[2025-12-26 14:29:38]   Error: Fatal Python error: init_sys_streams: can't initialize sys standard streams
+Python runtime state: core initialized
+OSError: [Errno 9] Bad file descriptor
+
+Current thread 0x00000001fbba5f00 (most recen
+[2025-12-26 14:29:38] ========== Pipeline execution completed ==========
+
+[2025-12-26 14:31:38] ========== Pipeline execution started ==========
+[2025-12-26 14:31:38] [1/5] Running exotel_api.py...
+[2025-12-26 14:31:38] [1/5] ✗ exotel_api.py failed with exit code 1
+[2025-12-26 14:31:38]   Error: Fatal Python error: init_sys_streams: can't initialize sys standard streams
+Python runtime state: core initialized
+OSError: [Errno 9] Bad file descriptor
+
+Current thread 0x00000001fbba5f00 (most recen
+[2025-12-26 14:31:38] [2/5] Running import_exotel_data.py...
+[2025-12-26 14:31:38] [2/5] ✗ import_exotel_data.py failed with exit code 1
+[2025-12-26 14:31:38]   Error: Fatal Python error: init_sys_streams: can't initialize sys standard streams
+Python runtime state: core initialized
+OSError: [Errno 9] Bad file descriptor
+
+Current thread 0x00000001fbba5f00 (most recen
+[2025-12-26 14:31:38] [3/5] Running get_recording.py...
+[2025-12-26 14:31:38] [3/5] ✗ get_recording.py failed with exit code 1
+[2025-12-26 14:31:38]   Error: Fatal Python error: init_sys_streams: can't initialize sys standard streams
+Python runtime state: core initialized
+OSError: [Errno 9] Bad file descriptor
+
+Current thread 0x00000001fbba5f00 (most recen
+[2025-12-26 14:31:38] [4/5] Running audio_to_text.py...
+[2025-12-26 14:31:38] [4/5] ✗ audio_to_text.py failed with exit code 1
+[2025-12-26 14:31:38]   Error: Fatal Python error: init_sys_streams: can't initialize sys standard streams
+Python runtime state: core initialized
+OSError: [Errno 9] Bad file descriptor
+
+Current thread 0x00000001fbba5f00 (most recen
+[2025-12-26 14:31:38] [5/5] Running descrption_generation_2.py...
+[2025-12-26 14:31:38] [5/5] ✗ descrption_generation_2.py failed with exit code 1
+[2025-12-26 14:31:38]   Error: Fatal Python error: init_sys_streams: can't initialize sys standard streams
+Python runtime state: core initialized
+OSError: [Errno 9] Bad file descriptor
+
+Current thread 0x00000001fbba5f00 (most recen
+[2025-12-26 14:31:38] ========== Pipeline execution completed ==========
+
+[2025-12-26 14:41:20] ========== Pipeline execution started ==========
+[2025-12-26 14:41:20] [1/5] Running exotel_api.py...
+[2025-12-26 14:41:20] [1/5] ✗ exotel_api.py failed with exit code 1
+[2025-12-26 14:41:20]   Error: Fatal Python error: init_sys_streams: can't initialize sys standard streams
+Python runtime state: core initialized
+OSError: [Errno 9] Bad file descriptor
+
+Current thread 0x00000001fbba5f00 (most recen
+[2025-12-26 14:41:20] [2/5] Running import_exotel_data.py...
+[2025-12-26 14:41:20] [2/5] ✗ import_exotel_data.py failed with exit code 1
+[2025-12-26 14:41:20]   Error: Fatal Python error: init_sys_streams: can't initialize sys standard streams
+Python runtime state: core initialized
+OSError: [Errno 9] Bad file descriptor
+
+Current thread 0x00000001fbba5f00 (most recen
+[2025-12-26 14:41:20] [3/5] Running get_recording.py...
+[2025-12-26 14:41:20] [3/5] ✗ get_recording.py failed with exit code 1
+[2025-12-26 14:41:20]   Error: Fatal Python error: init_sys_streams: can't initialize sys standard streams
+Python runtime state: core initialized
+OSError: [Errno 9] Bad file descriptor
+
+Current thread 0x00000001fbba5f00 (most recen
+[2025-12-26 14:41:20] [4/5] Running audio_to_text.py...
+[2025-12-26 14:41:20] [4/5] ✗ audio_to_text.py failed with exit code 1
+[2025-12-26 14:41:20]   Error: Fatal Python error: init_sys_streams: can't initialize sys standard streams
+Python runtime state: core initialized
+OSError: [Errno 9] Bad file descriptor
+
+Current thread 0x00000001fbba5f00 (most recen
+[2025-12-26 14:41:20] [5/5] Running descrption_generation_2.py...
+[2025-12-26 14:41:20] [5/5] ✗ descrption_generation_2.py failed with exit code 1
+[2025-12-26 14:41:20]   Error: Fatal Python error: init_sys_streams: can't initialize sys standard streams
+Python runtime state: core initialized
+OSError: [Errno 9] Bad file descriptor
+
+Current thread 0x00000001fbba5f00 (most recen
+[2025-12-26 14:41:20] ========== Pipeline execution completed ==========
+
+[2025-12-26 14:48:26] ========== Pipeline execution started ==========

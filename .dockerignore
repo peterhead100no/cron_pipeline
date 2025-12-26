@@ -1,0 +1,29 @@
+# Python
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.env
+
+# IDEs
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.mp3
+AUDIO_RECORDING/*
+AUDIO_TO_TEXT/*
+call_details.json
+.git
+.gitignore
+README.md
