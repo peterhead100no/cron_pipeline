@@ -435,3 +435,120 @@ Current thread 0x00000001fbba5f00 (most recen
 [2025-12-26 15:19:43] [5/5] ✓ descrption_generation_2.py completed successfully
 [2025-12-26 15:19:43] ========== Pipeline execution completed ==========
 
+[2026-01-07 16:47:57] [1/1] ✗ working_pipeline.py timed out after 5 minutes
+[2026-01-07 16:47:57] ========== Pipeline execution completed ==========
+
+[2026-01-07 16:48:13] Pipeline daemon started (PID: 37137, Interval: 120s)
+[2026-01-07 16:48:13] Logs: /Users/thirdeyeradianceprivateltd/Desktop/exotel_v2/Backend'/cron_old/cron_pipeline/pipeline_execution.log
+
+[2026-01-07 16:48:13] ========== Pipeline execution started ==========
+[2026-01-07 16:48:13] [1/1] Running working_pipeline.py...
+[2026-01-07 16:48:13] [1/1] ✗ working_pipeline.py failed with exit code 1
+[2026-01-07 16:48:13]   Error: Traceback (most recent call last):
+  File "/Users/thirdeyeradianceprivateltd/Desktop/exotel_v2/Backend'/cron_old/cron_pipeline/working_pipeline.py", line 65, in <module>
+    main()
+  File "/Users/thir
+[2026-01-07 16:48:13] ========== Pipeline execution completed ==========
+
+[2026-01-07 16:51:22] Pipeline daemon started (PID: 37679, Interval: 120s)
+[2026-01-07 16:51:22] Logs: /Users/thirdeyeradianceprivateltd/Desktop/exotel_v2/Backend/cron_old/cron_pipeline/pipeline_execution.log
+
+[2026-01-07 16:51:22] ========== Pipeline execution started ==========
+[2026-01-07 16:51:22] [1/1] Running working_pipeline.py...
+[2026-01-07 16:56:48] Pipeline daemon started (PID: 42033, Interval: 120s)
+[2026-01-07 16:56:48] Logs: /Users/thirdeyeradianceprivateltd/Desktop/exotel_v2/Backend/cron_old/cron_pipeline/pipeline_execution.log
+
+[2026-01-07 16:56:48] ========== Pipeline execution started ==========
+[2026-01-07 16:56:48] [1/1] Running working_pipeline.py...
+[2026-01-07 16:56:50] [1/1] ✓ working_pipeline.py completed successfully
+[2026-01-07 16:56:50] ========== Pipeline execution completed ==========
+
+[2026-01-07 16:57:31] Pipeline daemon started (PID: 42074, Interval: 120s)
+[2026-01-07 16:57:31] Logs: /Users/thirdeyeradianceprivateltd/Desktop/exotel_v2/Backend/cron_old/cron_pipeline/pipeline_execution.log
+
+[2026-01-07 16:57:31] ========== Pipeline execution started ==========
+[2026-01-07 16:57:31] [1/1] Running working_pipeline.py...
+[2026-01-07 16:57:34] [1/1] ✓ working_pipeline.py completed successfully
+[2026-01-07 16:57:34] ========== Pipeline execution completed ==========
+
+[2026-01-07 16:58:06] Pipeline daemon started (PID: 42108, Interval: 120s)
+[2026-01-07 16:58:06] Logs: /Users/thirdeyeradianceprivateltd/Desktop/exotel_v2/Backend/cron_old/cron_pipeline/pipeline_execution.log
+
+[2026-01-07 16:58:06] ========== Pipeline execution started ==========
+[2026-01-07 16:58:06] [1/1] Running working_pipeline.py...
+[2026-01-07 16:58:09] [1/1] ✓ working_pipeline.py completed successfully
+[2026-01-07 16:58:09] ========== Pipeline execution completed ==========
+
+[2026-01-07 16:58:28] Pipeline daemon started (PID: 42118, Interval: 60s)
+[2026-01-07 16:58:28] Logs: /Users/thirdeyeradianceprivateltd/Desktop/exotel_v2/Backend/cron_old/cron_pipeline/pipeline_execution.log
+
+[2026-01-07 16:58:28] ========== Pipeline execution started ==========
+[2026-01-07 16:58:28] [1/1] Running working_pipeline.py...
+[2026-01-07 16:58:30] [1/1] ✓ working_pipeline.py completed successfully
+[2026-01-07 16:58:30] ========== Pipeline execution completed ==========
+
+[2026-01-07 16:59:30] ========== Pipeline execution started ==========
+[2026-01-07 16:59:30] [1/1] Running working_pipeline.py...
+[2026-01-07 16:59:45] [1/1] ✓ working_pipeline.py completed successfully
+[2026-01-07 16:59:45] ========== Pipeline execution completed ==========
+
+[2026-01-07 17:00:45] ========== Pipeline execution started ==========
+[2026-01-07 17:00:45] [1/1] Running working_pipeline.py...
+[2026-01-07 17:00:47] [1/1] ✓ working_pipeline.py completed successfully
+[2026-01-07 17:00:47] ========== Pipeline execution completed ==========
+
+[2026-01-07 17:01:47] ========== Pipeline execution started ==========
+[2026-01-07 17:01:47] [1/1] Running working_pipeline.py...
+[2026-01-07 17:01:48] [1/1] ✓ working_pipeline.py completed successfully
+[2026-01-07 17:01:48] ========== Pipeline execution completed ==========
+
+[2026-01-07 17:02:48] ========== Pipeline execution started ==========
+[2026-01-07 17:02:48] [1/1] Running working_pipeline.py...
+[2026-01-07 17:02:50] [1/1] ✓ working_pipeline.py completed successfully
+[2026-01-07 17:02:50] ========== Pipeline execution completed ==========
+
+[2026-01-07 17:03:50] ========== Pipeline execution started ==========
+[2026-01-07 17:03:50] [1/1] Running working_pipeline.py...
+[2026-01-07 17:03:52] [1/1] ✓ working_pipeline.py completed successfully
+[2026-01-07 17:03:52] ========== Pipeline execution completed ==========
+
+[2026-01-07 17:04:52] ========== Pipeline execution started ==========
+[2026-01-07 17:04:52] [1/1] Running working_pipeline.py...
+[2026-01-07 17:05:07] [1/1] ✓ working_pipeline.py completed successfully
+[2026-01-07 17:05:07] ========== Pipeline execution completed ==========
+
+[2026-01-07 17:06:07] ========== Pipeline execution started ==========
+[2026-01-07 17:06:07] [1/1] Running working_pipeline.py...
+[2026-01-07 17:06:09] [1/1] ✓ working_pipeline.py completed successfully
+[2026-01-07 17:06:09] ========== Pipeline execution completed ==========
+
+[2026-01-07 17:07:09] ========== Pipeline execution started ==========
+[2026-01-07 17:07:09] [1/1] Running working_pipeline.py...
+[2026-01-07 17:07:11] [1/1] ✓ working_pipeline.py completed successfully
+[2026-01-07 17:07:11] ========== Pipeline execution completed ==========
+
+[2026-01-07 17:08:11] ========== Pipeline execution started ==========
+[2026-01-07 17:08:11] [1/1] Running working_pipeline.py...
+[2026-01-07 17:08:23] [1/1] ✓ working_pipeline.py completed successfully
+[2026-01-07 17:08:23] ========== Pipeline execution completed ==========
+
+[2026-01-07 17:09:23] ========== Pipeline execution started ==========
+[2026-01-07 17:09:23] [1/1] Running working_pipeline.py...
+[2026-01-07 17:09:25] [1/1] ✓ working_pipeline.py completed successfully
+[2026-01-07 17:09:25] ========== Pipeline execution completed ==========
+
+[2026-01-07 17:10:25] ========== Pipeline execution started ==========
+[2026-01-07 17:10:25] [1/1] Running working_pipeline.py...
+[2026-01-07 17:10:27] [1/1] ✓ working_pipeline.py completed successfully
+[2026-01-07 17:10:27] ========== Pipeline execution completed ==========
+
+[2026-01-07 17:11:27] ========== Pipeline execution started ==========
+[2026-01-07 17:11:27] [1/1] Running working_pipeline.py...
+[2026-01-07 17:11:29] [1/1] ✓ working_pipeline.py completed successfully
+[2026-01-07 17:11:29] ========== Pipeline execution completed ==========
+
+[2026-01-07 17:12:29] ========== Pipeline execution started ==========
+[2026-01-07 17:12:29] [1/1] Running working_pipeline.py...
+[2026-01-07 17:12:30] [1/1] ✓ working_pipeline.py completed successfully
+[2026-01-07 17:12:30] ========== Pipeline execution completed ==========
+

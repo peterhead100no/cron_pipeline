@@ -50,11 +50,7 @@ class PipelineDaemon:
     def run_pipeline(self):
         """Run the pipeline scripts"""
         scripts = [
-            "exotel_api.py",
-            "import_exotel_data.py",
-            "get_recording.py",
-            "audio_to_text.py",
-            "descrption_generation_2.py"
+            "working_pipeline.py"
         ]
         
         self.log("========== Pipeline execution started ==========")
